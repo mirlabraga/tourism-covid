@@ -1,6 +1,11 @@
 # Tourism and Covid-19
 
-The particular project and born in the quarantine time. For more information like on the like [Article - Tourism and Covid-19](https://medium.com/@mirlabraga/tourism-and-covid-19-50eba7950a47).
+The particular project and born in the quarantine time. For more information like on the like [Tourism and Covid-19](https://medium.com/@mirlabraga/tourism-and-covid-19-50eba7950a47).
+
+## Development Requirements
+
+- node >= v8 [![node](https://img.shields.io/badge/node-v8-blue.svg)](https://img.shields.io/badge/node-v8-blue.svg)
+- npm >= v5 [![npm](https://img.shields.io/badge/npm-v5.3.0-blue)](https://img.shields.io/badge/npm-v5.3.0-blue)
 
 ## Available Scripts
 
